@@ -31,6 +31,7 @@ matplotlib
 seaborn
 
 warnings
+
 📌 Notes
 Ensure the file movies.csv is placed correctly as referenced in the notebook.
 
